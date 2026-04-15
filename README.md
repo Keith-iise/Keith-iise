@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=FF5F5F,FFB344,FFF353,74FF5F,5FE0FF,A95FFF&width=650&height=40&lines=having a good time!! Stay cool Enjoy coding&center=true&vCenter=true&size=28&multicolor=true" alt="gradient typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=7DF9FF&width=650&height=40&lines=having+a+good+time!!&center=true&vCenter=true&size=28" alt="typing">
 </p>
-
 
 
 
