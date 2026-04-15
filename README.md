@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈！&center=true&size=27" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=024EF7&background=FFFFFF00&width=480&height=40&lines=昨日之深渊，今日之浅谈！&center=true&vCenter=true&size=27" alt="Typing SVG"/>
 </div>
 
 <picture>
