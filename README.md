@@ -4,14 +4,11 @@
   </a>
 </div>
 
-![](https://raw.githubusercontent.com/Keith-iise/Keith-iise/refs/heads/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/Keith-iise/Keith-iise/refs/heads/output/github-contribution-grid-snake.svg)
 
 ### 个人简介
 -  姓名: Keith
 -  性别: attack helicopter
 
 ### 仓库信息
-![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)   
-
-
-[【ChatGPT】SpringBoot+uniapp+uview2对接OpenAI，带你开发玩转ChatGPT](https://mp.weixin.qq.com/s/b19J36Eo3-ba7bHbWzoZYQ)
+骗你的,还没做完readme呢
