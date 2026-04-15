@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1500&color=FF5F5F,F25FFF,5F6FFF,5FFF9E&width=600&height=50&lines=having+a+good+time!!;Stay+cool;Enjoy+coding&center=true&vCenter=true&size=30" alt="cool typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&multicolor=true&color=FF5F5F,F5A623,FFFF54,7FFF7F,7F7FFF&width=600&height=50&lines=having+a+good+time!!;Stay+cool;Enjoy+coding&center=true&vCenter=true&size=30" alt="cool typing">
 </p>
+
 
 
 <picture>
