@@ -1,10 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&color=B469FF&width=600&height=50&lines=having+a+good+time!!&center=true&vCenter=true&size=30" alt="typing">
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&color=4285F4&width=600&height=50&lines=Stay+cool&center=true&vCenter=true&size=30" alt="typing">
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&color=2EFCFF&width=600&height=50&lines=Enjoy+coding&center=true&vCenter=true&size=30" alt="typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=FF5F5F,FFB344,FFF353,74FF5F,5FE0FF,A95FFF&width=650&height=40&lines=having a good time!! Stay cool Enjoy coding&center=true&vCenter=true&size=28&multicolor=true" alt="gradient typing">
 </p>
+
 
 
 
