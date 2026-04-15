@@ -1,6 +1,11 @@
 <p align="center">
-<img src="https://typing-svg.vercel.app/?font=JetBrains+Mono&weight=600&pause=1500&color=FF5F5F&color2=F25FFF&color3=5F6FFF&color4=5FFF9E&width=600&height=50&lines=having+a+good+time!!|Stay+cool|Enjoy+coding&center=true&size=30" alt="cool typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&color=B469FF&width=600&height=50&lines=having+a+good+time!!&center=true&vCenter=true&size=30" alt="typing">
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&color=4285F4&width=600&height=50&lines=Stay+cool&center=true&vCenter=true&size=30" alt="typing">
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1500&color=2EFCFF&width=600&height=50&lines=Enjoy+coding&center=true&vCenter=true&size=30" alt="typing">
 </p>
+
 
 
 
