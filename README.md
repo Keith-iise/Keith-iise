@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=024EF7&background=FFFFFF00&width=480&height=40&lines=昨日之深渊，今日之浅谈！&center=true&vCenter=true&size=27" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=700&pause=1000&color=2F64EE&background=FFFFFF00&width=500&height=50&lines=昨日之深渊，今日之浅谈！&center=true&vCenter=true&size=26" alt="昨日之深渊，今日之浅谈！">
 </div>
 
 <picture>
