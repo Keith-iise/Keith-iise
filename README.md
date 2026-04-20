@@ -15,4 +15,4 @@
 ### 仓库信息
 骗你的,还没做完readme呢
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.keith-iise)
+![当前访问人数](https://visitor-badge.laobi.icu/badge?page_id=github.keith-iise)
